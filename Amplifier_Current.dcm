@@ -162,6 +162,12 @@ K current sense shunt monitor
 F http://www.ti.com/lit/ds/symlink/ina193.pdf
 $ENDCMP
 #
+$CMP INA2180
+D Low- and High-Side Voltage Output, Current-Sense Amplifiers
+K Current-Sense Amplifiers, INA, 
+F http://www.ti.com/lit/ds/symlink/ina180.pdf
+$ENDCMP
+#
 $CMP INA240A1D
 D High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 20V/V, SOIC-8
 K current monitor shunt sensor bidirectional high low

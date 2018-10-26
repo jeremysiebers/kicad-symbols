@@ -1584,6 +1584,12 @@ K Voltage Regulator 100mA Positive
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf
 $ENDCMP
 #
+$CMP L78M05CDT-1_TO251-3
+D Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
+K Voltage Regulator 500mA Positive
+F http://www.farnell.com/datasheets/1834365.pdf?_ga=2.187030189.465432704.1539604317-466615820.1533907205&_gac=1.118832635.1539604317.Cj0KCQjw9ZDeBRD9ARIsAMbAmobcWTO7WN-53vEKoIOgRK188JW470M2vSrXmJeggKvJC-a4_Nt-90AaAgetEALw_wcB
+$ENDCMP
+#
 $CMP L7905
 D Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263
 K Voltage Regulator 1.5A Negative
